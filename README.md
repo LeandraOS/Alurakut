@@ -1,13 +1,13 @@
 # 💌 Alurakut
 
-Implementação da réplica do extinto "Orkut" durante a Imersão React, evento promovido pela Alura.
+O [Alurakut](alurakut-chi-six.vercel.app) é a implementação da réplica do extinto "Orkut" desenvolvido durante a Imersão React, evento promovido pela Alura.
 
 ## 🛠️ Tecnologias
 
-- :electron: React
-- ⚙️ Next.js
--📍 GraphQL
+- [:electron: React](https://pt-br.reactjs.org/)
+- [⚙️ Next.js](https://nextjs.org/)
+- [📍 GraphQL](https://graphql.org/)
 
-## 🪛 Ferramentas 
-- [DatoCMS](https://datocms.com/)
+## 🪛 Ferramentas
+- 📊 [DatoCMS](https://datocms.com/)
 
